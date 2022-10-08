@@ -1,0 +1,15 @@
+.news {
+    background-color: grey;
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.news .title {
+    font-size: 3rem;
+    margin: 10px;
+}
+
+.news .body {
+    background-color: lightgrey;
+    margin: 10px;
+}

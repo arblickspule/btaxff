@@ -1,0 +1,24 @@
+@font-face {
+    font-family: hFont;
+    src: url(/lumina/typography/TitanOne-Regular.ttf);
+}
+
+
+.header {
+    background-color: black;
+    color:aliceblue;
+    /* padding:10px; */
+}
+.header-main {
+    font-family: hFont, 'Courier New', Courier, monospace;    
+}
+.header-main h1 {
+    font-size: 3em;
+}
+
+
+.content {
+  /* padding: 20px; */
+  min-height: 100%;
+  margin: 10px auto -40px;
+}

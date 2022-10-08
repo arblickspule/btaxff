@@ -1,0 +1,33 @@
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 0 10px 0px;
+  }
+ .menu ul {
+    font-size: 1em;
+    padding: 10px;
+    margin: 10px;
+    display: inline;
+  }
+
+  .menu li {
+    float: left;   
+    border-radius: 5px;
+  }
+
+  .menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+ 
+  /* Change the link color to #111 (black) on hover */
+  .menu li a:hover {
+    
+    background-color: grey !important;
+  }
+  .menu .active {
+    background-color: darkslategray;
+  }
