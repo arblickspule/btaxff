@@ -26,8 +26,8 @@
 </ignore>
 <script type="module">
   import { createApp } from 'https://unpkg.com/petite-vue?module'
-  import _ from 'lodash'
-  
+//   import _ from 'lodash'
+
 
   createApp({
     driverList: [],
