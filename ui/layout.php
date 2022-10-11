@@ -10,8 +10,8 @@
         <!-- </check> -->
         <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha384-HSMxcRTRxnN+Bdg0JdbxYKrThecOKuH5zCYotlSAcp1+c8xmyTe9GYg1l9a69psu" crossorigin="anonymous">
-        <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1/dist/tailwind.min.css" rel="stylesheet" type="text/css"/>
-        <link href="https://cdn.jsdelivr.net/npm/daisyui@1.10.0/dist/full.css" rel="stylesheet" type="text/css"/>
+        <!-- <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1/dist/tailwind.min.css" rel="stylesheet" type="text/css"/>
+        <link href="https://cdn.jsdelivr.net/npm/daisyui@1.10.0/dist/full.css" rel="stylesheet" type="text/css"/> -->
 		<!-- <link rel="stylesheet" href="/css/typography.css" type="text/css" /> -->
 		<link rel="stylesheet" href="/btax/css/theme.css" type="text/css" />
         <link rel="stylesheet" href="/btax/css/menu.css" type="text/css" />

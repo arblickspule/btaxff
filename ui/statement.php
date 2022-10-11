@@ -13,14 +13,16 @@
             </select>
         </div>
         <div class="container-fluid">
-            <table>
-                <tr>
-                    <th v-for="header in dbFields">{{ header }}</th>
-                </tr>
-                <tr v-for="row in data">
-                    <td v-for="cell in row">{{ cell }}</td>
-                </tr>
-            </table>
+            <div class="row">
+                <!-- <div > -->
+                    <div class="col-md-2 col-lg-2" v-for="header in dbFields">{{ header }}</div>
+                    
+                <!-- </div> -->
+                <div class="row" v-for="row in data">
+                    <div class="col-md-2 col-lg-2" v-for="cell in row">{{ cell }}</div>
+                    <!-- <div class=v-if="cell."> -->
+                </div>
+            </div>
         </div>
     </div>
 </ignore>
@@ -32,7 +34,7 @@
   createApp({
     driverList: [],
     driverSelected: '',
-    dbFields: ['BookingID','RequestedPickupTime','PickupAddress','DropoffAddress','Cost','Type','DropoffFee','ParkingFee','WaitingFee','OtherFee','OtherDescription'],
+    dbFields: ['BookingID','RequestedPickupTime','PickupAddress','DropoffAddress','Cost','Type'], // 'DropoffFee','ParkingFee','WaitingFee','OtherFee','OtherDescription'],
     startDate: '2022/09/01 00:00:00',
     endDate: '2022/09/09 00:00:00',
     data: [],
