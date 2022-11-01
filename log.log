@@ -1,0 +1,75 @@
+Thu, 13 Oct 2022 15:42:04 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:42:04 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:42:04 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:42:04 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:42:04 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:42:09 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:42:09 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:42:09 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:42:09 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:42:09 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:42:21 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:42:21 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:42:21 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:42:21 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:42:21 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:42:24 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:42:24 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:42:24 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:42:24 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:42:24 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:42:41 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:42:41 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:42:41 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:42:41 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:42:41 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:43:16 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:43:16 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:43:16 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:43:16 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:43:16 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:43:25 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:43:25 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:43:25 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:43:25 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:43:25 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:43:42 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:43:42 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:43:42 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:43:42 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:43:42 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:44:30 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:44:30 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:44:30 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:44:30 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:44:30 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:45:30 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:45:30 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:45:30 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:45:30 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:45:30 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:45:53 +0000 [127.0.0.1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:45:53 +0000 [127.0.0.1] Stack trace:
+Thu, 13 Oct 2022 15:45:53 +0000 [127.0.0.1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:45:53 +0000 [127.0.0.1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:45:53 +0000 [127.0.0.1] #2 {main}
+Thu, 13 Oct 2022 15:48:32 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:48:32 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:48:32 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:48:32 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:48:32 +0000 [::1] #2 {main}
+Thu, 13 Oct 2022 15:48:39 +0000 [::1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Thu, 13 Oct 2022 15:48:39 +0000 [::1] Stack trace:
+Thu, 13 Oct 2022 15:48:39 +0000 [::1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Thu, 13 Oct 2022 15:48:39 +0000 [::1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Thu, 13 Oct 2022 15:48:39 +0000 [::1] #2 {main}
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] Stack trace:
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] #2 {main}
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] PDOException: SQLSTATE[HY000] [1045] Access denied for user 'btax2022'@'localhost' (using password: YES) in C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php:548
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] Stack trace:
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] #0 C:\code\btaxff\vendor\bcosca\fatfree-core\db\sql.php(548): PDO->__construct('mysql:host=loca...', 'btax2022', 'Gn0me', Array)
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] #1 c:\code\btaxff\index.php(17): DB\SQL->__construct('mysql:host=loca...', 'btax2022', 'Gn0me')
+Sat, 15 Oct 2022 12:13:20 +0000 [127.0.0.1] #2 {main}

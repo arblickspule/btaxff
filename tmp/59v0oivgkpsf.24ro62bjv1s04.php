@@ -13,9 +13,11 @@
             <div class="row">
                 <!-- <div > -->
                     <div class="col-md-2 col-lg-2" v-for="header in dbFields">{{ header }}</div>
+                    
                 <!-- </div> -->
                 <div class="row" v-for="row in data">
                     <div class="col-md-2 col-lg-2" v-for="cell in row">{{ cell }}</div>
+                    <!-- <div class=v-if="cell."> -->
                 </div>
             </div>
         </div>
@@ -35,7 +37,7 @@
     data: [],
     async mounted() {
         axios({
-            url: 'http://localhost:8055/items/drivers',
+            url: 'http://ahrrmiu4.directus.app/items/drivers',
             headers: {
                 'authorization': 'Bearer c9zSw_CDZXw9TBM07Y-oiSrPp_YXjwQB',
             },
@@ -49,7 +51,7 @@
     reloadData() {
         console.log(this.driverSelected)
         axios({
-            url: 'http://localhost:8055/items/bookings',
+            url: 'http://ahrrmiu4.directus.app/items/bookings',
             headers: {
                 'authorization': 'Bearer c9zSw_CDZXw9TBM07Y-oiSrPp_YXjwQB',
             },

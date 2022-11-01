@@ -40,7 +40,7 @@
     data: [],
     async mounted() {
         axios({
-            url: 'http://localhost:8055/items/drivers',
+            url: 'http://ahrrmiu4.directus.app/items/drivers',
             headers: {
                 'authorization': 'Bearer c9zSw_CDZXw9TBM07Y-oiSrPp_YXjwQB',
             },
@@ -54,7 +54,7 @@
     reloadData() {
         console.log(this.driverSelected)
         axios({
-            url: 'http://localhost:8055/items/bookings',
+            url: 'http://ahrrmiu4.directus.app/items/bookings',
             headers: {
                 'authorization': 'Bearer c9zSw_CDZXw9TBM07Y-oiSrPp_YXjwQB',
             },
